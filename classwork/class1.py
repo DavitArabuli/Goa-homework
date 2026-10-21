@@ -8,7 +8,7 @@ y = "lasha"
 print(x * 3)
 print(x)
 
-"azuka" + "anano"  # კონკატენაცია
+"azuka" + "anano"  # კონკატინაცია
 print("lasha")  # string
 print("aleqsi" * 100)
 

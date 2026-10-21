@@ -1,5 +1,5 @@
-# ra aris rogor mushaobs tipe castint, print, input, sting, input, კონკატენაცია, tipe
-# input ra monacemis tips gvadz
+# რა არის და როგორ მუშაობს: tipe castint, print, input, sting, input, კონკატენაცია, tipe, კომენტარი, snake case
+# input - რა მონაცემის ტიპს გვაძლევს?
 
 # age = 20
 # name = "lasha"
