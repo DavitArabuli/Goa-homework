@@ -10,21 +10,21 @@ bread = int(input("enter prise>"))
 milk = int(input("enter prise>"))
 apple = int(input("enter prise>"))
 total = (bread + milk + apple)
-print("total>"total)
+print("total>", total)
 
 
 # 3
 age1 = int(input("How old are you > "))
 years = int(input("How many years > "))
 plus = (age1 + years)
-print(F"in {years} years you will be {plus} years old")
+print(f"in {years} years you will be {plus} years old")
 
 
 # 4
 walk = int(input("How many > "))
 time = int(input("How many > "))
 speed = (walk / time)
-print("your speed> "speed)
+print("your speed> ", speed)
 
 
 # 5
