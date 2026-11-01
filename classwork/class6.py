@@ -2,31 +2,34 @@
 
 # you use input to.... # language
 
-num = int(input())  # code
-print(num)
+# num = int(input())  # code
+# print(num)
 
-num = get_number()  # pseudo-code
-out = > num
+# num = get_number()  # pseudo-code
+# out = > num
 
 
-# ერთგანზომილებიანი
-input
+# # ერთგანზომილებიანი
+# input
 
-create varibale - ------ -> | visual
+# create varibale - ------ -> | visual
 
-print out verible
+# print out verible
 
-bool -  # ბულიონი
-True
-False
+# bool -  # ბულიონი
+# True
+# False
 
-==  # შმოწმება
->  # მეტია თუ არა
-<  # ნაკლებია ტუ არა
->=  # მეტია და ტოლია
-<=  # ნაკლებია ან ტოლია
-!=  # არ უდრის
-# ეს ყველა გვაძლევს ბულიონს
-print(bool(100))
-print(bool(0))  # მხოლოდ ნული გვაძლევს False დანარჩენი True
-# True ითვლება როგორ 1 ხოხლო false ითველბა 0 integer
+# ==  # შმოწმება
+# >  # მეტია თუ არა
+# <  # ნაკლებია ტუ არა
+# >=  # მეტია და ტოლია
+# <=  # ნაკლებია ან ტოლია
+# !=  # არ უდრის
+# # ეს ყველა გვაძლევს ბულიონს
+# print(bool(100))
+# print(bool(0))  # მხოლოდ ნული გვაძლევს False დანარჩენი True
+# # True ითვლება როგორ 1 ხოხლო false ითველბა 0 integer
+# ყველაპერი html ტაგში იწერება
+# ერთი ტაგის შიგნიტ რო სხვას ვსვამთ ქვია nesting
+# <link>
