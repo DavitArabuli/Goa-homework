@@ -70,9 +70,9 @@ print("You have enough storage to download it. True of False>",
       bool(program_size < storage))
 
 # 10
-math = float(input("Enter your grade"))
-history = float(input("Enter your grade"))
-art = float(input("Enter your grade"))
+math = float(input("Enter your grade>"))
+history = float(input("Enter your grade>"))
+art = float(input("Enter your grade>"))
 average_grade = ((math + history + art) / 3)
 if average_grade >= 5:
     print("you have passed")
@@ -120,7 +120,7 @@ print(result)
 
 # print(final_salary)
 
-# when calculating the final_salary instead of 2 they wrote "2" wich is a spring
+# when calculating the final_salary instead of 2 they wrote "2" wich is a spring and hours and bonus is missing int
 
 
 hours = input("Enter hours worked: ")

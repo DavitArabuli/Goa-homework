@@ -1,32 +1,18 @@
-# შექმენი ცვალი სადაც შეინახავ ინთეჯერ C გადავიყვანოთ F
+3+5
+3*7
+6-2
 
-# Celsius = 30
-# Fahrenheit = (Celsius * 1.8) + 32
+x = 3+2
+y = "lasha"
 
-# print(Fahrenheit)
+print(x * 3)
+print(x)
 
+"azuka" + "anano"  # კონკატინაცია
+print("lasha")  # string
+print("aleqsi" * 100)
 
-# name = input("Enter your name: ")
-# print("The name is " + name)
+saxeli_gvari = "giorgi"
+Saxeli_gvari = "saba"  # ცვლადი
 
-
-# Celsius = int(input("Enter Celsius: "))
-# Fahrenheit = (Celsius * 1.8) + 32
-# print("Result: ", Fahrenheit)
-
-# tipe casting - erti monacemis tipis gadayvana sxvad
-
-
-# age = int(input("Enter your age: "))
-# print("Your age is: " + str(age))
-
-# age = 12
-# print(type(age))
-
-
-# BMI-ს გამოთვლა
-weight = input("Enter your weight in kg: ")
-height = input("Enter your height in meters: ")
-
-BMI = (float(weight)) / ((float(height)) ** 2)
-print("Your BMI is: ", BMI)
+print(9 / 2)  # წილადი არის float
