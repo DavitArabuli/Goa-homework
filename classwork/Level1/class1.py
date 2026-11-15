@@ -1,6 +1,13 @@
+from turtle import *
+3+5
+3*7
+6-2
+
+x = 3+2
+y = "lasha"
+
 # print("hello world")
 # print("Davit Arabuli")
-from turtle import *
 forward(200)
 exitonclick()
 
